@@ -1,0 +1,4 @@
+Welcome to the 3MTT DevOps Practical.
+
+This file was created in the feature-add-intro branch.
+It demonstrates working with Git branches, staging changes, and creating commits.
