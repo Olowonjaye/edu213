@@ -1,0 +1,1 @@
+echo "This file simulates collaborative development in the feature-collab branch." > collaboration.txt
